@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1091772813582",
+    "firebase_url": "https://notischool-a13cc.firebaseio.com",
+    "project_id": "notischool-a13cc",
+    "storage_bucket": "notischool-a13cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091772813582:android:8873051972633d2f06475f",
+        "android_client_info": {
+          "package_name": "be.ecam.notischool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091772813582-hr56elt80qv75f2uedan27lk43md505v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgIrIXclP36dO7g_007ybWVooH3pZa20M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091772813582-hr56elt80qv75f2uedan27lk43md505v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
